@@ -10,3 +10,16 @@ repo_url: 'https://github.com/Ingress-wiki/Ingress-wiki'
 # Theme
 theme:
   name: material
+  language: en 
+
+
+
+# Language
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Chinese
+      link: https://zh.ingress.wiki/
+      lang: zh
