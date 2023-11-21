@@ -1,3 +1,12 @@
+# Wiki Information
 site_name: Ingress Wiki
 site_description: A open wiki for every agent. 
 site_url: https://ingress.wiki
+
+# Repository
+repo_name: 'Ingress-wiki/Ingress-wiki'
+repo_url: 'https://github.com/Ingress-wiki/Ingress-wiki'
+
+# Theme
+theme:
+  name: material
